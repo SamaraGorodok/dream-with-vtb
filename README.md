@@ -1,6 +1,7 @@
 # dream-with-vtb
 **Application that we made at VTB API hackathon**
 <br/>
+
 Команда:
 * Андрей Васильев - fullstack
 * Алексей Рябикин - frontend/ux-ui/speaker
