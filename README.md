@@ -4,8 +4,8 @@
 
 Команда:
 * Андрей Васильев - fullstack
-* Алексей Рябикин - frontend/ux-ui/speaker
-* Арсений Девяткин - backend
-* Даниил Нуруллаев - fullstack
+* [Алексей Рябикин](https://github.com/SamaraGorodok) - frontend/ux-ui/speaker
+* [Даниил Нуруллаев](https://github.com/susaasus1) - fullstack
+* [Арсений Девяткин](https://github.com/bonchEquipment) - backend
 <br/>
 <img alt="demo gif" src="demo.gif" height="400"/>
