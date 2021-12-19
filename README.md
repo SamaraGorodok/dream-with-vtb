@@ -3,7 +3,7 @@
 <br/>
 
 Команда:
-* Андрей Васильев - fullstack
+* [Андрей Васильев](https://github.com/wizarsi) - fullstack
 * [Алексей Рябикин](https://github.com/SamaraGorodok) - frontend/ux-ui/speaker
 * [Даниил Нуруллаев](https://github.com/susaasus1) - fullstack
 * [Арсений Девяткин](https://github.com/bonchEquipment) - backend
